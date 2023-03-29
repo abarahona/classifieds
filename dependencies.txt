@@ -1,0 +1,62 @@
+[[1;34mINFO[m] Scanning for projects...
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/build-helper-maven-plugin/3.3.0/build-helper-maven-plugin-3.3.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.codehaus.mojo:build-helper-maven-plugin:3.3.0: Plugin org.codehaus.mojo:build-helper-maven-plugin:3.3.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:build-helper-maven-plugin:jar:3.3.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/flywaydb/flyway-maven-plugin/8.5.13/flyway-maven-plugin-8.5.13.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.flywaydb:flyway-maven-plugin:8.5.13: Plugin org.flywaydb:flyway-maven-plugin:8.5.13 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.flywaydb:flyway-maven-plugin:jar:8.5.13
+Downloading from central: https://repo.maven.apache.org/maven2/pl/project13/maven/git-commit-id-plugin/4.9.10/git-commit-id-plugin-4.9.10.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for pl.project13.maven:git-commit-id-plugin:4.9.10: Plugin pl.project13.maven:git-commit-id-plugin:4.9.10 or one of its dependencies could not be resolved: Failed to read artifact descriptor for pl.project13.maven:git-commit-id-plugin:jar:4.9.10
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/johnzon/johnzon-maven-plugin/1.2.19/johnzon-maven-plugin-1.2.19.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.johnzon:johnzon-maven-plugin:1.2.19: Plugin org.apache.johnzon:johnzon-maven-plugin:1.2.19 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.johnzon:johnzon-maven-plugin:jar:1.2.19
+Downloading from central: https://repo.maven.apache.org/maven2/org/jooq/jooq-codegen-maven/3.14.16/jooq-codegen-maven-3.14.16.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.jooq:jooq-codegen-maven:3.14.16: Plugin org.jooq:jooq-codegen-maven:3.14.16 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.jooq:jooq-codegen-maven:jar:3.14.16
+Downloading from central: https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-maven-plugin/1.6.21/kotlin-maven-plugin-1.6.21.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.jetbrains.kotlin:kotlin-maven-plugin:1.6.21: Plugin org.jetbrains.kotlin:kotlin-maven-plugin:1.6.21 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.jetbrains.kotlin:kotlin-maven-plugin:jar:1.6.21
+Downloading from central: https://repo.maven.apache.org/maven2/org/liquibase/liquibase-maven-plugin/4.9.1/liquibase-maven-plugin-4.9.1.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.liquibase:liquibase-maven-plugin:4.9.1: Plugin org.liquibase:liquibase-maven-plugin:4.9.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.liquibase:liquibase-maven-plugin:jar:4.9.1
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/3.0.0/maven-antrun-plugin-3.0.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-antrun-plugin:3.0.0: Plugin org.apache.maven.plugins:maven-antrun-plugin:3.0.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-antrun-plugin:jar:3.0.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/3.3.0/maven-assembly-plugin-3.3.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-assembly-plugin:3.3.0: Plugin org.apache.maven.plugins:maven-assembly-plugin:3.3.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-assembly-plugin:jar:3.3.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/3.3.0/maven-dependency-plugin-3.3.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-dependency-plugin:3.3.0: Plugin org.apache.maven.plugins:maven-dependency-plugin:3.3.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-dependency-plugin:jar:3.3.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.5.3/maven-release-plugin-2.5.3.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-release-plugin:2.5.3: Plugin org.apache.maven.plugins:maven-release-plugin:2.5.3 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-release-plugin:jar:2.5.3
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-enforcer-plugin/3.0.0/maven-enforcer-plugin-3.0.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-enforcer-plugin:3.0.0: Plugin org.apache.maven.plugins:maven-enforcer-plugin:3.0.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-enforcer-plugin:jar:3.0.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-failsafe-plugin/2.22.2/maven-failsafe-plugin-2.22.2.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-failsafe-plugin:2.22.2: Plugin org.apache.maven.plugins:maven-failsafe-plugin:2.22.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-failsafe-plugin:jar:2.22.2
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-help-plugin/3.2.0/maven-help-plugin-3.2.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-help-plugin:3.2.0: Plugin org.apache.maven.plugins:maven-help-plugin:3.2.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-help-plugin:jar:3.2.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-invoker-plugin/3.2.2/maven-invoker-plugin-3.2.2.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-invoker-plugin:3.2.2: Plugin org.apache.maven.plugins:maven-invoker-plugin:3.2.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-invoker-plugin:jar:3.2.2
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-javadoc-plugin/3.4.1/maven-javadoc-plugin-3.4.1.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-javadoc-plugin:3.4.1: Plugin org.apache.maven.plugins:maven-javadoc-plugin:3.4.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-javadoc-plugin:jar:3.4.1
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-shade-plugin/3.3.0/maven-shade-plugin-3.3.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-shade-plugin:3.3.0: Plugin org.apache.maven.plugins:maven-shade-plugin:3.3.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-shade-plugin:jar:3.3.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-source-plugin/3.2.1/maven-source-plugin-3.2.1.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-source-plugin:3.2.1: Plugin org.apache.maven.plugins:maven-source-plugin:3.2.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-source-plugin:jar:3.2.1
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/3.3.2/maven-war-plugin-3.3.2.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-war-plugin:3.3.2: Plugin org.apache.maven.plugins:maven-war-plugin:3.3.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-war-plugin:jar:3.3.2
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/versions-maven-plugin/2.10.0/versions-maven-plugin-2.10.0.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.codehaus.mojo:versions-maven-plugin:2.10.0: Plugin org.codehaus.mojo:versions-maven-plugin:2.10.0 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:versions-maven-plugin:jar:2.10.0
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/xml-maven-plugin/1.0.2/xml-maven-plugin-1.0.2.pom
+[[1;33mWARNING[m] Failed to retrieve plugin descriptor for org.codehaus.mojo:xml-maven-plugin:1.0.2: Plugin org.codehaus.mojo:xml-maven-plugin:1.0.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:xml-maven-plugin:jar:1.0.2
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+[[1;33mWARNING[m] Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): Unexpected error: java.security.InvalidAlgorithmParameterException: the trustAnchors parameter must be non-empty
+[[1;33mWARNING[m] Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): Unexpected error: java.security.InvalidAlgorithmParameterException: the trustAnchors parameter must be non-empty
+[[1;33mWARNING[m] Failure to transfer org.apache.maven.plugins/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.apache.maven.plugins/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): Unexpected error: java.security.InvalidAlgorithmParameterException: the trustAnchors parameter must be non-empty
+[[1;33mWARNING[m] Failure to transfer org.codehaus.mojo/maven-metadata.xml from https://repo.maven.apache.org/maven2 was cached in the local repository, resolution will not be reattempted until the update interval of central has elapsed or updates are forced. Original error: Could not transfer metadata org.codehaus.mojo/maven-metadata.xml from/to central (https://repo.maven.apache.org/maven2): Unexpected error: java.security.InvalidAlgorithmParameterException: the trustAnchors parameter must be non-empty
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] [1;31mBUILD FAILURE[m
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;34mINFO[m] Total time:  9.337 s
+[[1;34mINFO[m] Finished at: 2022-09-30T23:05:47-03:00
+[[1;34mINFO[m] [1m------------------------------------------------------------------------[m
+[[1;31mERROR[m] No plugin found for prefix 'dependency' in the current project and in the plugin groups [org.apache.maven.plugins, org.codehaus.mojo] available from the repositories [local (/root/.m2/repository), central (https://repo.maven.apache.org/maven2)] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/NoPluginFoundForPrefixException
