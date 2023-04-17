@@ -1,6 +1,6 @@
 package com.searchclassifieds.searchclassifieds.service;
 
-import com.searchclassifieds.searchclassifieds.dto.Classified;
+import com.searchclassifieds.searchclassifieds.model.Classified;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
